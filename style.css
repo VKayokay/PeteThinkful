@@ -46,11 +46,24 @@ p {
 
 
 
-ul {
-  text-align: center;
-  list-style-position: inside;
+div.container {
+text-align: center;
 }
 
+ul.ulcontainer{
+display: inline-block;
+text-align: left;
+}
+
+
+div.container2 {
+text-align: left;
+}
+
+ol.olcontainer{
+display: inline-block;
+text-align: left;
+}
 
 nav{
   text-align: center;
